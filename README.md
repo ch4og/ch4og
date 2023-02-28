@@ -1,12 +1,15 @@
-<a href="#">![My Discord](https://discord-readme-badge.vercel.app/api?id=408227192137318400)</a>
-<!--[![My Skills](https://skillicons.dev/icons?i=py,cs,nodejs,html)](https://github.com/ch4og)-->
+<!--<a href="#">![My Discord](https://discord-readme-badge.vercel.app/api?id=408227192137318400)</a>-->
+
+<img src="https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html" />
+
+
 
 ### Немного информации:
 
  * Учу **NodeJS**.
  * На неплохом уровне владею **Python**, **C#**.
  * Энтузиаст **GNU/Linux**.
-
+ * Использую **VS Code**, **Sublime Text** и **Neovim**
 ### Проекты:
 
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - Форк достаточно популярного и функционального [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) для self-хостинга.
