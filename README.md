@@ -14,7 +14,7 @@
 
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - Форк достаточно популярного и функционального [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) для self-хостинга.
  * [__twitch-notify-telegram__](https://github.com/ch4og/twitch-notify-telegram) - Telegram бот для уведомления зрителей о начавшемся стриме на Twitch.
- * [__spotify-twitch-requests__](https://github.com/ch4og/spotify-twitch-requests) - Изначально форк [TwitchTunes](https://github.com/mmattDonk/TwitchTunes), сильно изменен, сейчас код в плохом состоянии.
+ * [__spotify-twitch-requests__](https://github.com/ch4og/spotify-twitch-requests) - Изначально форк [TwitchTunes](https://github.com/mmattDonk/TwitchTunes), сильно изменен, **пока что** код в плохом состоянии.
 
 <details>
   <summary>Статистика</summary>
