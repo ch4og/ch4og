@@ -12,7 +12,7 @@
  * Использую **VS Code**, **Sublime Text** и **Neovim**
 ### Проекты:
 
- * [__lolisafe__](https://github.com/ch4og/lolisafe) - Форк достаточно популярного и функционального [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) для self-хостинга.
+ * [__lolisafe__](https://github.com/ch4og/lolisafe) - Форк [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) с широким функционалом работающий на https://ch4.fun/
  * [__twitch-notify-telegram__](https://github.com/ch4og/twitch-notify-telegram) - Telegram бот для уведомления зрителей о начавшемся стриме на Twitch.
  * [__spotify-twitch-requests__](https://github.com/ch4og/spotify-twitch-requests) - Изначально форк [TwitchTunes](https://github.com/mmattDonk/TwitchTunes), сильно изменен, **пока что** код в плохом состоянии.
  * [__chatgpt-3.5-turbo-google__](https://github.com/ch4og/chatgpt-3.5-turbo-google) - Форк [ChatGPT for Google](https://chatgpt4google.com/). Добавляет поддержку **gpt-3.5-turbo**.
