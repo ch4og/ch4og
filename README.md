@@ -15,7 +15,7 @@
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - Форк достаточно популярного и функционального [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) для self-хостинга.
  * [__twitch-notify-telegram__](https://github.com/ch4og/twitch-notify-telegram) - Telegram бот для уведомления зрителей о начавшемся стриме на Twitch.
  * [__spotify-twitch-requests__](https://github.com/ch4og/spotify-twitch-requests) - Изначально форк [TwitchTunes](https://github.com/mmattDonk/TwitchTunes), сильно изменен, **пока что** код в плохом состоянии.
- * [__chatgpt-3.5-turbo-google__](https://github.com/ch4og/chatgpt-3.5-turbo-google) - Форк [популярного расширения](https://chatgpt4google.com/). Добавляет поддержку **gpt-3.5-turbo**.
+ * [__chatgpt-3.5-turbo-google__](https://github.com/ch4og/chatgpt-3.5-turbo-google) - Форк [ChatGPT for Google](https://chatgpt4google.com/). Добавляет поддержку **gpt-3.5-turbo**.
 <details>
   <summary>Статистика</summary>
   
