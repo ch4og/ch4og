@@ -1,6 +1,6 @@
 <!--<a href="#">![My Discord](https://discord-readme-badge.vercel.app/api?id=408227192137318400)</a>-->
 # [me.ch4.fun](https://me.ch4.fun)
-<img src="https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html" />
+<a href="#"><img src="https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html" /></a>
 
 
 
@@ -8,7 +8,7 @@
 
  * btw i use arch.
  * учу **nodejs**.
- * использую **vs code**, **sublime text** и **neovim**
+ * использую **vscodium** и **neovim**
 ### проекты:
 
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - форк [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) с широким функционалом работающий на https://ch4.fun/
