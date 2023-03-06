@@ -6,7 +6,7 @@
 
 ### немного информации:
 
- * btw i use arch.
+ * i use arch btw.
  * учу **nodejs**.
  * использую **vscodium** и **neovim**
 ### проекты:
