@@ -1,4 +1,3 @@
-<!--<a href="#">![My Discord](https://discord-readme-badge.vercel.app/api?id=408227192137318400)</a>-->
 # [me.ch4.fun](https://me.ch4.fun)
 <a href="#"><img src="https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html" /></a>
 
