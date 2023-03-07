@@ -1,5 +1,5 @@
 # [me.ch4.fun](https://me.ch4.fun)
-<a href="#"><img src="https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html" /></a>
+[![Skill Icons](https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html)](#)
 ### немного информации:
 
  * i use arch btw.
