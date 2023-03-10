@@ -3,9 +3,8 @@
 [![Skill Icons](https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html)](#)
 ### немного информации:
 
- * i use arch btw.
- * учу **nodejs**.
- * использую **vscodium** и **neovim**
+ * **win10** + **arch** wsl.
+ * **vscodium** + **neovim**
 ### проекты:
 
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - форк [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) с широким функционалом работающий на https://ch4.fun/
