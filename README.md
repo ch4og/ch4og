@@ -3,7 +3,7 @@
 [![Skill Icons](https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html)](#)
 ### использую:
 
- * **win10** + **arch** wsl
+ * **windows 10** + **arch gnu/linux** wsl
  * **vscodium** + **neovim**
 ### проекты:
 
