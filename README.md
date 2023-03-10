@@ -1,7 +1,7 @@
 # [me.ch4.fun](https://me.ch4.fun)
 
 [![Skill Icons](https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html)](#)
-### немного информации:
+### использую:
 
  * **win10** + **arch** wsl.
  * **vscodium** + **neovim**
