@@ -13,4 +13,4 @@
  * [__spotify-twitch-requests__](https://github.com/ch4og/spotify-twitch-requests) - изначально форк [TwitchTunes](https://github.com/mmattDonk/TwitchTunes), сильно изменен, **пока что** код в плохом состоянии.
  * [__search-gpt-3.5-turbo__](https://github.com/ch4og/search-gpt-3.5-turbo) - форк [ChatGPT for Google](https://chatgpt4google.com/), добавляет поддержку **gpt-3.5-turbo**.
 
-<img src="https://ch4.fun/arch.png" width="300" />
+
