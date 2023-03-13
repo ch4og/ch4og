@@ -4,7 +4,7 @@
 ### использую:
  * **arch linux**
  * **win10** kvm
- * [**vscodium**](https://vscodium.com/)
+ * [**vscodium**](https://github.com/VSCodium/vscodium)
  * [**lazyvim**](https://github.com/LazyVim/LazyVim)
 ### проекты:
 
