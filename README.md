@@ -5,7 +5,7 @@
  * **arch linux**
  * **win10** kvm
  * **vscodium** 
- * **neovim**
+ * [**lazyvim**](https://github.com/LazyVim/LazyVim)
 ### проекты:
 
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - форк [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) с широким функционалом работающий на https://ch4.fun/
