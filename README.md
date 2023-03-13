@@ -4,8 +4,7 @@
 ### использую:
  * **arch linux**
  * **win10** kvm
- * [**lazyvim**](https://github.com/LazyVim/LazyVim)
- * [**vscodium**](https://github.com/VSCodium/vscodium)  <sub><sup>(редко)</sub></sup>
+ * [**lazy.nvim**](https://github.com/folke/lazy.nvim)
 ### проекты:
 
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - форк [файл-сейфа](https://github.com/BobbyWibowo/lolisafe) с широким функционалом работающий на https://ch4.fun/
