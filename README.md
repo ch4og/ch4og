@@ -3,7 +3,7 @@
 [![Skill Icons](https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html)](#)
 ### использую:
  * **artix linux** (runit)
- * **win10** kvm
+ * ~~**win10** kvm~~
  * [**lazy.nvim**](https://github.com/folke/lazy.nvim)
 ### проекты:
 
