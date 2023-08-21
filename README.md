@@ -2,7 +2,8 @@
 
 [![Skill Icons](https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html)](#)
 ### использую:
- * [**artix linux**](https://artixlinux.org/) (runit)
+ * ~~[**artix linux**](https://artixlinux.org/) (runit)~~
+ * [**fedora kde**](https://fedoraproject.org/spins/kde/)
  * [**lazy.nvim**](https://github.com/folke/lazy.nvim)
 ### проекты:
 
