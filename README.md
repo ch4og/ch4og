@@ -4,7 +4,7 @@
 ### использую:
  * ~~[**artix linux**](https://artixlinux.org/) (runit)~~
  * [**fedora kde**](https://fedoraproject.org/spins/kde/)
- * [**lazy.nvim**](https://github.com/folke/lazy.nvim)
+ * [**lazyvim**](https://www.lazyvim.org/)
 ### проекты:
 
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - форк [файл-сейфа с широким функционалом](https://github.com/BobbyWibowo/lolisafe) работающий на https://ch4.fun/
