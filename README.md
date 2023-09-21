@@ -2,9 +2,10 @@
 
 [![Skill Icons](https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html)](#)
 ### setup:
- * ~~[**artix linux**](https://artixlinux.org/) (runit)~~
- * [**fedora rawhide**](https://docs.fedoraproject.org/en-US/releases/rawhide/)
+ * **artix linux** (runit)
+ * windows 11 + [ArchWSL](https://github.com/yuk7/ArchWSL)
  * [**lazyvim**](https://www.lazyvim.org/)
+ * ~~**fedora rawhide**~~
 
 ### projects:
  * [__lolisafe__](https://github.com/ch4og/lolisafe) - fork of a [lolisafe](https://github.com/BobbyWibowo/lolisafe) filesafe working on https://ch4.fun/ [RU]
