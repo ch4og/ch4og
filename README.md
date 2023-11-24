@@ -2,9 +2,10 @@
 
 [![Skill Icons](https://skillicons.dev/icons?i=py,nodejs,cpp,cs,html)](#)
 ### setup:
- * **artix linux** (runit)
- * windows 11 + **[ArchWSL](https://github.com/yuk7/ArchWSL)**
+ * **arch linux**
  * [**lazyvim**](https://www.lazyvim.org/)
+ * ~~artix linux (runit)~~
+ * ~~windows 11 + [ArchWSL](https://github.com/yuk7/ArchWSL)~~
  * ~~fedora rawhide~~
 
 ### projects:
