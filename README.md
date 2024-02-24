@@ -11,7 +11,7 @@
  * ~~[__twitch-notify-telegram__](https://github.com/ch4og/twitch-notify-telegram) - telegram bot to notify viewers about twitch stream~~ **DEAD**. [RU]
  * [__spotify-twitch-requests__](https://github.com/ch4og/spotify-twitch-requests) - Spotify music requests bot for Twitch. [RU]
 
-currently learning web, reverse, pwn and crypto.
+currently learning reverse, pwn and crypto.
 
 
 
