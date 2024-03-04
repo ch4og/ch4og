@@ -2,7 +2,7 @@
 
 **I'm an avg cybersec skid**
 ### Setup:
- * Artix GNU/Linux (runit) + Win11 KVM
+ * Win11 + [ArchWSL2](https://github.com/sileshn/ArchWSL2)
  * [lazyvim](https://www.lazyvim.org/)
  * vscodium + [codeium](https://codeium.com/)
 
