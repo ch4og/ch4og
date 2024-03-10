@@ -2,9 +2,9 @@
 
 **I'm an avg cybersec skid**
 ### Setup:
- * Win11 + [ArchWSL2](https://github.com/sileshn/ArchWSL2)
- * [lazyvim](https://www.lazyvim.org/)
- * vscode insiders + [codeium](https://codeium.com/)
+ * Artix GNU/Linux + Win11 KVM
+ * [VSCodium](https://vscodium.com/) + [Codeium](https://codeium.com/)
+ * [LazyVim](https://www.lazyvim.org/)
 
 Currently learning reverse, pwn and crypto.
 
