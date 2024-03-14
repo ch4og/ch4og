@@ -1,7 +1,7 @@
 Hi 👋 I'm ch4og!
 =======================
 
-I'm just a cybersecurity student
+An average cybersecurity student
 
 *   🌍  I'm based in Moscow, Russia
 *   🖥️  See my CTF writeups at [ctf.ch4og.com](https://ctf.ch4og.com)
