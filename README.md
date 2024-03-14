@@ -1,4 +1,4 @@
-Hi 👋 My name is ch4og!
+Hi 👋 I'm ch4og!
 =======================
 
 I'm just a cybersecurity student
