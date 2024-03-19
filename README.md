@@ -7,7 +7,7 @@ An average cybersecurity student
 *   🖥️  See my CTF writeups at [ctf.ch4og.com](https://ctf.ch4og.com)
 *   🧠  I'm learning pwn, reverse and crypto.
 *   ⚡  I use arch btw
-*   🏆  Huge respect to everyone in opensource and linux world
+*   🏆  Huge respect to everyone from opensource and linux world
            
   ### Socials
 
@@ -18,6 +18,6 @@ An average cybersecurity student
 
                     
 ### Setup:
- * Artix GNU/Linux (runit) + Hyprland
- * VSCodium + Codeium
- * NvChad
+ * [Artix GNU/Linux](https://artixlinux.org/) (runit) + [Hyprland](https://hyprland.org/)
+ * [VSCodium](https://vscodium.com/) + [Codeium](https://codeium.com/)
+ * [NvChad](https://nvchad.com/)
