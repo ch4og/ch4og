@@ -19,5 +19,5 @@ An average cybersecurity student
                     
 ### Setup:
  * [Artix GNU/Linux](https://artixlinux.org/) (runit) + [Hyprland](https://hyprland.org/)
- * [VSCodium](https://vscodium.com/) + [Codeium](https://codeium.com/)
+ * [Code - OSS](https://github.com/microsoft/vscode)
  * [NvChad](https://nvchad.com/)
