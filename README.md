@@ -1,6 +1,10 @@
 <h1 align="left">Hi!👋 I'm ch4og</h1>
 
+###
+
 <p align="left">An average cybersec student<br><br>🌍  I'm based in Moscow, Russia<br>📚 I'm currently learning pwn and reverse<br>🖥️  Check out my <a href="https://ch4og.com" target="_blank" rel="noreferrer">cybersecurity writeups</a><br>⚡  I use arch btw</p>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -35,12 +39,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ch4og&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ch4og&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://t.me/ch4og" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
