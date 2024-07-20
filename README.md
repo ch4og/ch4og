@@ -1,4 +1,4 @@
-<h1 align="left">Hi!👋 I'm ch4og</h1>
+<h1 align="left">Hi!👋 I'm <a href="https://ch4og.com">ch4og</a></h1>
 
 ###
 
