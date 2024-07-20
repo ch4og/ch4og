@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <a href="discord.com/users/408227192137318400" target="_blank">
+  <a href="https://discord.com/users/408227192137318400" target="_blank">
   <img src="https://discord-readme-badge.vercel.app/api?id=408227192137318400" height="10%" alt="discord status" />
   </a>
 </div>
