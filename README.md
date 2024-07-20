@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">An average cybersec student<br><br>🌍  I'm based in Moscow, Russia<br>📚 I'm currently learning pwn and reverse<br>🖥️  Check out my <a href="https://ch4og.com" target="_blank" rel="noreferrer">cybersecurity writeups</a><br>⚡  I use arch btw</p>
+<p align="left">An average cybersec student<br><br>🌍  I'm based in Moscow, Russia<br>📚 I'm currently learning pwn and reverse<br>🖥️  Check out my <a href="https://ctf.ch4og.com" target="_blank" rel="noreferrer">cybersecurity writeups</a><br>⚡  I use arch btw</p>
 
 ###
 
