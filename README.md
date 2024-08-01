@@ -39,9 +39,10 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/408227192137318400" target="_blank">
-  <img src="https://discord-readme-badge.vercel.app/api?id=408227192137318400" height="10%" alt="discord status" />
-  </a>
+
+  
+![ch4og's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4og&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
 ###
