@@ -6,12 +6,13 @@
 - I use NixOS btw.
 
 
-|**Rank**|`B-`|
+|**GitHub Rank**|`B-`|
 |---|---|
 |Stars|`12`|
-|Commits|`241`|
-|PRs|`21`|
+|Public Commits|`244`|
+|Pull Requests|`21`|
 |Issues|`9`|
+|Contributed to (2024)|`7`
 
 <img src="/.cache/langs.svg" />
 
