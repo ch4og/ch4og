@@ -1,12 +1,23 @@
 import requests
 import json
 
-# Fetch the data
+# Fetch the github_rank
 response = requests.get(
     "https://github-rank-git-main-mitanicks-projects.vercel.app/?user=ch4og"
 )
-data = response.json()
+github_rank = response.json()
 
+response = requests.get(
+    "https://wakatime-stats.vercel.app/?user=ch4og&domain=wakapi.dev"
+)
+wakatime_stats = response.json()
+wakatime_langs = list(wakatime_stats.keys())
+wakatime_time = list(wakatime_stats.values())
+
+response = requests.get(
+    "https://wakatime-stats.vercel.app/?user=ch4og&domain=wakapi.dev&total=true"
+)
+wakatime_total = response.json()
 # Prepare the Markdown content
 markdown_content = f"""
 ## 👋 Hi, I'm [ch4og](https://ch4og.com)
@@ -15,18 +26,29 @@ markdown_content = f"""
 - Speaker of English, Russian and Polish languages.
 - I use NixOS btw.
 
+<table>
+<tr><th>GitHub Stats</th><th>Wakatime Stats</th></tr>
+<tr><td>
 
-|**GitHub Rank**|`{data['rank']}`|
+|**Rank**|`{github_rank['rank']}`|
 |---|---|
-|Stars|`{data['stars']}`|
-|Public Commits|`{data['commits']}`|
-|Pull Requests|`{data['prs']}`|
-|Issues|`{data['issues']}`|
-|Contributed to (2024)|`{data['contributed_to']}`
+|Stars|`{github_rank['stars']}`|
+|Public Commits|`{github_rank['commits']}`|
+|Pull Requests|`{github_rank['prs']}`|
+|Issues|`{github_rank['issues']}`|
+|Contributed to (2024)|`{github_rank['contributed_to']}`
 
-<img src="/.cache/langs.svg" />
+</td><td>
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ch4og&theme=dark&hide=unknown&custom_title=Wakapi%20Stats&api_domain=wakapi.dev&layout=compact)
+|**Total**|`{wakatime_total['total']}`|
+|---|---|
+|{wakatime_langs[0]}|`{wakatime_time[0]}`|
+|{wakatime_langs[1]}|`{wakatime_time[1]}`|
+|{wakatime_langs[2]}|`{wakatime_time[2]}`|
+|{wakatime_langs[3]}|`{wakatime_time[3]}`|
+|{wakatime_langs[4]}|`{wakatime_time[4]}`|
+
+</td></tr> </table>
 """
 
 # Write to README.md
