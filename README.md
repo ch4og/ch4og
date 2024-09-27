@@ -5,15 +5,26 @@
 - Speaker of English, Russian and Polish languages.
 - I use NixOS btw.
 
+<table>
+<tr><th>GitHub Stats</th><th>Wakatime Stats</th></tr>
+<tr><td>
 
-|**GitHub Rank**|`B-`|
+|**Rank**|`B-`|
 |---|---|
 |Stars|`12`|
-|Public Commits|`244`|
+|Public Commits|`256`|
 |Pull Requests|`21`|
 |Issues|`9`|
 |Contributed to (2024)|`7`
 
-<img src="/.cache/langs.svg" />
+</td><td>
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ch4og&theme=dark&hide=unknown&custom_title=Wakapi%20Stats&api_domain=wakapi.dev&layout=compact)
+|**Total**|`131h 35m`|
+|---|---|
+|Nix|`58h 1m 16s`|
+|Go|`11h 51m 2s`|
+|Python|`8h 58m 59s`|
+|Markdown|`5h 35m 38s`|
+|Bash|`4h 51m 26s`|
+
+</td></tr> </table>
