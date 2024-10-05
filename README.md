@@ -19,9 +19,9 @@
 
 </td><td>
 
-|**Total**|`96h 7m`|
+|**Total**|`96h 5m`|
 |---|---|
-|Nix|`59h 19m`|
+|Nix|`59h 17m`|
 |Go|`11h 51m`|
 |Python|`9h 47m`|
 |Markdown|`5h 35m`|
