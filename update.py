@@ -36,7 +36,8 @@ markdown_content = f"""
 |Public Commits|`{github_rank['commits']}`|
 |Pull Requests|`{github_rank['prs']}`|
 |Issues|`{github_rank['issues']}`|
-|Contributed to (2024)|`{github_rank['contributed_to']}`
+|Code Reviews|{github_rank['reviews']}|
+|Contributed to|`{github_rank['contributed_to']}`
 
 </td><td>
 
