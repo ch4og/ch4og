@@ -12,21 +12,21 @@
 |**Rank**|`B`|
 |---|---|
 |Stars|`31`|
-|Public Commits|`367`|
+|Public Commits|`381`|
 |Pull Requests|`45`|
 |Issues|`9`|
 |Code Reviews|`1`|
-|Contributed to|`12`
+|Contributed to|`13`
 
 </td><td>
 
-|**Total**|`137h 37m`|
+|**Total**|`139h 28m`|
 |---|---|
-|Nix|`80h 12m`|
+|Nix|`80h 30m`|
 |Python|`13h 7m`|
 |Go|`11h 51m`|
-|Markdown|`8h 2m`|
 |Bash|`7h 2m`|
-|JSON|`2h 36m`|
+|TypeScript|`2h 50m`|
+|HTML|`2h 10m`|
 
 </td></tr> </table>
