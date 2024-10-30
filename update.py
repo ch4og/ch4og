@@ -36,7 +36,7 @@ markdown_content = f"""
 |Public Commits|`{github_rank['commits']}`|
 |Pull Requests|`{github_rank['prs']}`|
 |Issues|`{github_rank['issues']}`|
-|Code Reviews|{github_rank['reviews']}|
+|Code Reviews|`{github_rank['reviews']}`|
 |Contributed to|`{github_rank['contributed_to']}`
 
 </td><td>
@@ -48,6 +48,7 @@ markdown_content = f"""
 |{wakatime_langs[2]}|`{wakatime_time[2]}`|
 |{wakatime_langs[3]}|`{wakatime_time[3]}`|
 |{wakatime_langs[4]}|`{wakatime_time[4]}`|
+|{wakatime_langs[5]}|`{wakatime_time[5]}`|
 
 </td></tr> </table>
 """
