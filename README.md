@@ -12,19 +12,20 @@
 |**Rank**|`B`|
 |---|---|
 |Stars|`31`|
-|Public Commits|`364`|
+|Public Commits|`366`|
 |Pull Requests|`45`|
 |Issues|`9`|
-|Contributed to (2024)|`12`
+|Code Reviews|1|
+|Contributed to|`12`
 
 </td><td>
 
-|**Total**|`134h 21m`|
+|**Total**|`137h 37m`|
 |---|---|
 |Nix|`80h 12m`|
-|Python|`13h 2m`|
+|Python|`13h 7m`|
 |Go|`11h 51m`|
 |Markdown|`8h 2m`|
-|Bash|`6h 55m`|
+|Bash|`7h 2m`|
 
 </td></tr> </table>
