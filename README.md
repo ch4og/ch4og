@@ -12,10 +12,10 @@
 |**Rank**|`B`|
 |---|---|
 |Stars|`31`|
-|Public Commits|`366`|
+|Public Commits|`367`|
 |Pull Requests|`45`|
 |Issues|`9`|
-|Code Reviews|1|
+|Code Reviews|`1`|
 |Contributed to|`12`
 
 </td><td>
@@ -27,5 +27,6 @@
 |Go|`11h 51m`|
 |Markdown|`8h 2m`|
 |Bash|`7h 2m`|
+|JSON|`2h 36m`|
 
 </td></tr> </table>
