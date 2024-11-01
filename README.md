@@ -11,7 +11,7 @@
 
 |**Rank**|`B`|
 |---|---|
-|Stars|`32`|
+|Stars|`31`|
 |Public Commits|`388`|
 |Pull Requests|`45`|
 |Issues|`10`|
@@ -20,13 +20,13 @@
 
 </td><td>
 
-|**Total**|`146h 13m`|
+|**Total**|`154h 40m`|
 |---|---|
-|Nix|`81h 58m`|
+|Nix|`82h 4m`|
 |Python|`13h 2m`|
 |Go|`11h 51m`|
 |Bash|`7h 2m`|
-|TypeScript|`4h 47m`|
-|HTML|`3h 15m`|
+|HTML|`6h 35m`|
+|JavaScript|`6h 23m`|
 
 </td></tr> </table>
