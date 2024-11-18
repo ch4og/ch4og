@@ -20,9 +20,9 @@
 
 </td><td>
 
-|**Total**|`161h 8m`|
+|**Total**|`161h 6m`|
 |---|---|
-|Nix|`84h 56m`|
+|Nix|`84h 53m`|
 |Python|`13h 2m`|
 |Go|`11h 51m`|
 |JavaScript|`8h 31m`|
