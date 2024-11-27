@@ -16,17 +16,17 @@
 |Pull Requests|`30`|
 |Issues|`10`|
 |Code Reviews|`1`|
-|Contributed to|`15`
+|Contributed to|`16`
 
 </td><td>
 
-|**Total**|`164h 0m`|
+|**Total**|`168h 9m`|
 |---|---|
-|Nix|`86h 15m`|
+|Nix|`86h 18m`|
 |Python|`13h 5m`|
+|JavaScript|`12h 32m`|
 |Go|`11h 51m`|
-|JavaScript|`8h 56m`|
-|HTML|`7h 20m`|
+|HTML|`7h 21m`|
 |Bash|`7h 12m`|
 
 </td></tr> </table>
