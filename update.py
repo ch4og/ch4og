@@ -22,7 +22,8 @@ wakatime_total = response.json()
 markdown_content = f"""
 ## 👋 Hi, I'm [ch4og](https://ch4og.com)
 
-- GNU/Linux enthusiast and cybersecurity student.
+- GNU/Linux enthusiast since 2016.
+- Learning DevOps and cybersecurity since 2018.
 - Speaker of English, Russian and Polish languages.
 - I use NixOS btw.
 
