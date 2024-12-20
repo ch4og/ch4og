@@ -13,7 +13,7 @@
 |**Rank**|`B`|
 |---|---|
 |Stars|`40`|
-|Public Commits|`557`|
+|Public Commits|`559`|
 |Pull Requests|`32`|
 |Issues|`10`|
 |Code Reviews|`1`|
@@ -21,13 +21,13 @@
 
 </td><td>
 
-|**Total**|`195h 50m`|
+|**Total**|`196h 1m`|
 |---|---|
 |Nix|`96h 55m`|
 |JavaScript|`19h 25m`|
 |Python|`14h 7m`|
 |Go|`11h 51m`|
 |HTML|`7h 57m`|
-|Bash|`7h 49m`|
+|TypeScript|`7h 53m`|
 
 </td></tr> </table>
