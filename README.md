@@ -25,7 +25,7 @@
 |---|---|
 |Nix|`109h 43m`|
 |JavaScript|`19h 40m`|
-|Python|`15h 41m`|
+|Python|`15h 40m`|
 |Go|`11h 51m`|
 |TypeScript|`10h 6m`|
 |HTML|`8h 20m`|
