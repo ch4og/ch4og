@@ -21,10 +21,10 @@
 
 </td><td>
 
-|**Total**|`260h 7m`|
+|**Total**|`260h 11m`|
 |---|---|
 |Nix|`113h 54m`|
-|TypeScript|`29h 28m`|
+|TypeScript|`29h 31m`|
 |JavaScript|`23h 15m`|
 |Python|`19h 40m`|
 |Go|`11h 51m`|
