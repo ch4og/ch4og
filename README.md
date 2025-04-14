@@ -23,7 +23,7 @@
 
 |**Total**|`326h 48m`|
 |---|---|
-|Nix|`120h 6m`|
+|Nix|`120h 7m`|
 |TypeScript|`65h 9m`|
 |JavaScript|`23h 15m`|
 |Python|`21h 55m`|
