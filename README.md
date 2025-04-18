@@ -21,9 +21,9 @@
 
 </td><td>
 
-|**Total**|`328h 29m`|
+|**Total**|`328h 42m`|
 |---|---|
-|Nix|`121h 7m`|
+|Nix|`121h 19m`|
 |TypeScript|`65h 9m`|
 |JavaScript|`23h 15m`|
 |Python|`21h 55m`|
