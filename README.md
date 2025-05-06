@@ -1,33 +1,13 @@
+# 👋 Hello, I'm [ch4og](https://ch4og.com)!
 
-## 👋 Hi, I'm [ch4og](https://ch4og.com)
+* 🐧 GNU/Linux enthusiast for more than 8 years (Debian, NixOS, Arch...) 
+* 🔒 Participated in many CTFs, Bug Bounty programs, and penetration testing
+* ⌨️ I can code on Go, Python, TypeScript, JavaScript, Nix, C++, Bash and more! 
+* 🇺🇸 Native Russian speaker, fluent in English (C1 - Advanced).
+* ❄️ I use NixOS btw.
 
-- GNU/Linux enthusiast since 2016.
-- Learning DevOps and cybersecurity since 2018.
-- Speaker of English, Russian and Polish languages.
-- I use NixOS btw.
+[![GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=ch4og&show=prs_merged_percentage&show_icons=true&theme=tokyonight#gh-dark-mode-only)](#gh-dark-mode-only)
+[![GitHub Stats (White)](https://github-readme-stats.vercel.app/api?username=ch4og&show=prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](#gh-light-mode-only)
 
-<table>
-<tr><th>GitHub Stats</th><th>Wakatime Stats</th></tr>
-<tr><td>
-
-|**Rank**|`B+`|
-|---|---|
-|Stars|`44`|
-|Public Commits|`854`|
-|Pull Requests|`46`|
-|Issues|`10`|
-|Code Reviews|`1`|
-|Contributed to|`30`
-
-</td><td>
-
-|**Total**|`371h 17m`|
-|---|---|
-|Nix|`157h 25m`|
-|TypeScript|`65h 9m`|
-|JavaScript|`35h 6m`|
-|Python|`23h 36m`|
-|Go|`11h 53m`|
-|Bash|`10h 8m`|
-
-</td></tr> </table>
+[![Wakapi Stats (Dark)](https://github-readme-stats.vercel.app/api/wakatime?username=ch4og&theme=tokyonight&hide=unknown&api_domain=wakapi.dev&layout=compact#gh-dark-mode-only)](#gh-dark-mode-only)
+[![Wakapi Stats (White)](https://github-readme-stats.vercel.app/api/wakatime?username=ch4og&theme=default&hide=unknown&api_domain=wakapi.dev&layout=compact#gh-light-mode-only)](#gh-light-mode-only)
