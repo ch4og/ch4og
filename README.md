@@ -7,7 +7,7 @@ More than 8 years of GNU/Linux experience and 4 years exploring cybersecurity as
 ### 🔍 What I Do
 - ⚙️ DevOps/SRE: CI/CD & containerization
 - 🛡️ Offensive security
-- 🔓 CTF challenges & write-ups ([ctf.ch4og.ru](https://ctf.ch4og.ru))  
+- 🔓 CTF challenges & [write-ups](https://ctf.ch4og.com)
 - 📝 Security scripting & automation  
 
 ### 💻 Tech Stack
