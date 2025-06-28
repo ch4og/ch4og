@@ -11,7 +11,7 @@ More than 8 years of GNU/Linux experience and 4 years exploring cybersecurity as
 - 📝 Security scripting & automation  
 
 ### 💻 Tech Stack
-- 🐧 **OS:** GuixSD GNU/Linux ([my config](https://github.com/ch4og/guix-config))
+- 🐧 **OS:** GuixSD GNU/Linux (my config: [<img src="https://www.svgrepo.com/show/349319/codeberg.svg" width="16" alt="codeberg" />](https://codeberg.org/ch4og/guix-config) [<img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="16" alt="gitlab"/>](https://gitlab.com/ch4og/guix-config) [<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="16" alt="github" />](https://github.com/ch4og/guix-config))
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,js,ts,c,cs,bash,vim,emacs,nix,linux,scheme)](https://skillicons.dev)
 
