@@ -14,8 +14,8 @@ as a hobby.
 
 ### 🐧 My GNU/Linux Configuration
 
-- **GuixSD** — [guix-config](https://codeberg.org/ch4og/guix-config) (codeberg)
-- **NixOS** — [nixos-config](https://codeberg.org/ch4og/nixos-config) (codeberg)
+- **GuixSD** — [guix-config](https://git.ch4og.com/ch4og/guix-config)
+- **NixOS** — [nixos-config](https://git.ch4og.com/ch4og/nixos-config)
 
 ### 📚 Some of my skills
 
@@ -28,4 +28,3 @@ as a hobby.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ch4og&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ![Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ch4og&theme=dark&hide=unknown&api_domain=wakapi.dev&layout=compact)
-
