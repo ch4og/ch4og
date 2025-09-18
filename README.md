@@ -20,10 +20,10 @@
 - System administration & scripting
 
 #### 🐧 My GNU/Linux configs:
+
 [![Guix Home](https://img.shields.io/badge/Guix%20Home-FF8000?logo=gnu&logoColor=white&style=for-the-badge)](https://codeberg.org/ch4og/guix-home)&nbsp;&nbsp;
 [![Guix System](https://img.shields.io/badge/Guix%20System-FF8000?logo=gnu&logoColor=white&style=for-the-badge)](https://codeberg.org/ch4og/guixsd-config)&nbsp;&nbsp;
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge)](https://codeberg.org/ch4og/nixos-config)
-
 
 #### 🧰 Langs
 
@@ -33,15 +33,30 @@
 [![TS](https://img.shields.io/badge/TS-3178C6?style=for-the-badge)](#)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)](#)
-[![Nix](https://img.shields.io/badge/Nix-7E91DF?style=for-the-badge) ](#)
+[![Nix](https://img.shields.io/badge/Nix-7E91DF?style=for-the-badge)](#)
 [![Scheme](https://img.shields.io/badge/Scheme-1e4aec?style=for-the-badge)](#)
----
 
 #### 📈 Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ch4og&show_icons=true&hide_title=true&count_private=true&theme=dark)](#)
 
 [![Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ch4og&theme=dark&hide=unknown&api_domain=wakapi.dev&layout=compact)](#)
+
+#### ☕ Support me
+
+Due to SWIFT restrictions in Russia, I can only accept donations through the
+following services:
+
+#### Bank Cards:
+
+- [DALink](https://dalink.to/ch4og)
+- [Tribute](https://t.me/tribute/app?startapp=dx9j) (also supports Telegram
+  Wallet)
+
+#### Crypto:
+
+- USDT (TRC20): `TUwdxzG4JSCAZBa8KqAc21k5sTQLTZBUGv`
+- Toncoin (TON): `UQBmycu9rCJf-gfIPNFIXKf6GPSVTyTaaHJYEivYjLh0Tsh0`
 
 ---
 
