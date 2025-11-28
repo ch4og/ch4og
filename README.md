@@ -24,6 +24,10 @@ My PGP Key: [4DCC7AB7FC75319B](https://codeberg.org/ch4og.gpg)
 
 ---
 
+## WakaTime Stats
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=ch4og&api_domain=wakapi.dev&bg_color=1A202C&tit_color=2F855A&icon_color=2F855A&text_color=ffffff&hide=Unknown&layout=compact)
+
 ## Support Me
 
 Due to SWIFT restrictions in Russia, donations are currently available only through these methods:
