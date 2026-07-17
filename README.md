@@ -24,9 +24,11 @@ My PGP Key: [4DCC7AB7FC75319B](https://codeberg.org/ch4og.gpg)
 
 ---
 
-## WakaTime Stats
+## Stats
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ch4og&api_domain=wakapi.dev&bg_color=1A202C&tit_color=2F855A&icon_color=2F855A&text_color=ffffff&hide=Unknown&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api?username=ch4og&bg_color=1A202C&tit_color=2F855A&icon_color=2F855A&text_color=ffffff&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-stats-fast.vercel.app/api/wakatime?username=ch4og&api_domain=wakapi.dev&bg_color=1A202C&tit_color=2F855A&icon_color=2F855A&text_color=ffffff&hide_border=true&hide=Unknown&layout=compact)
 
 ## Support Me
 
