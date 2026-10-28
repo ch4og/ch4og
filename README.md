@@ -26,9 +26,9 @@ My PGP Key: [4DCC7AB7FC75319B](https://codeberg.org/ch4og.gpg)
 
 ## Stats
 
-![](https://github-readme-stats-fast.vercel.app/api?username=ch4og&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-stats-extended.vercel.app/api?username=ch4og&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-![](https://github-readme-stats-fast.vercel.app/api/wakatime?username=ch4og&api_domain=wakapi.dev&theme=github_dark&hide_border=true&hide=Unknown&layout=compact)
+![](https://github-stats-extended.vercel.app/api/wakatime?username=ch4og&api_domain=wakapi.dev&theme=github_dark&hide_border=true&hide=Unknown&layout=compact)
 
 [![](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=u8e2yand3dvl4hdmyl7weyxkl&count=1&time=0&progress=0&explicit=0)](https://open.spotify.com/user/u8e2yand3dvl4hdmyl7weyxkl)
 
